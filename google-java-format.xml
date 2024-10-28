@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<formatter>
-    <option name="formattingStyle" value="DEFAULT"/>
-    <option name="maxLineLength" value="120"/>
-</formatter>
+<style>
+    <option name="lineLength" value="100"/> <!-- Set max line length -->
+    <option name="tabSize" value="4"/>
+    <option name="indentation" value="4"/>
+    <option name="spacesAroundOperators" value="true"/>
+    <option name="spaceAfterKeywords" value="true"/>
+    <option name="blankLines" value="0"/> <!-- Control blank lines -->
+    <option name="allowLineBreakAfterOperators" value="true"/>
+    <option name="singleLineBlock" value="true"/> <!-- Allow single line blocks -->
+</style>
